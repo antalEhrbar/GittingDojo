@@ -2,7 +2,7 @@ a = 15151516
 b = -9878
 
 def introduce():
-    print('Hello, I\' m Gittie!)
+    print('Hello, I\' m Nora!)
 
 <<<<<<< HEAD
 def add(a, b):
