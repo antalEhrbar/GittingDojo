@@ -13,3 +13,7 @@ def add(a, b):
 def joke():
     print('I\'m not funny at all. Of course, that\'s a joke. muhaha')
 
+def shout(word):
+    print(word + '!')
+
+
